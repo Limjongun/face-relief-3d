@@ -1,0 +1,40 @@
+# Python build & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Large Model Files (downloadable via models/download_models.py)
+models/*.task
+models/*.pth
+models/*.bin
+models/*.safetensors
+models/*.onnx
+
+# Caches
+cache/
+.system_generated/
+
+# Private biometric photo inputs
+data/my_photos/
+data/*.jpg
+data/*.jpeg
+data/*.png
+
+# 3D Output Meshes and Rendered Artifacts (Large binary STLs)
+out/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

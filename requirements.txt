@@ -1,0 +1,6 @@
+# Dependensi untuk Face Relief 3D
+# Sebagian besar pustaka (torch CUDA, transformers, opencv, scipy, pillow)
+# sudah terpasang di Python Anda.
+
+# Pustaka utama yang perlu diinstal:
+mediapipe>=0.10.14
