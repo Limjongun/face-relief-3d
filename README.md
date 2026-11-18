@@ -7,7 +7,7 @@ Pipeline konversi **Foto Wajah 2D → Bas-Relief & Lithophane STL Siap Cetak 3D*
 ## 1. Struktur Folder
 
 ```
-D:\relief\
+relief\
 ├── blueprint_face_relief_3dprint.md   # Dokumen spesifikasi & arsitektur lengkap
 ├── requirements.txt                   # Daftar dependensi Python
 ├── README.md                          # Panduan eksekusi ini
